@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bryan\\source\\repos\\AsistUni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF42C8D-01BB-4CEF-A743-BF539B0AF243}|AsistUni\\AsistUni.csproj|c:\\users\\bryan\\source\\repos\\asistuni\\asistuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF42C8D-01BB-4CEF-A743-BF539B0AF243}|AsistUni\\AsistUni.csproj|solutionrelative:asistuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF42C8D-01BB-4CEF-A743-BF539B0AF243}|AsistUni\\AsistUni.csproj|c:\\users\\bryan\\source\\repos\\asistuni\\asistuni\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF42C8D-01BB-4CEF-A743-BF539B0AF243}|AsistUni\\AsistUni.csproj|solutionrelative:asistuni\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\source\\repos\\AsistUni\\AsistUni\\Universidad.cs",
+              "RelativeDocumentMoniker": "AsistUni\\Universidad.cs",
+              "ToolTip": "C:\\Users\\Bryan\\source\\repos\\AsistUni\\AsistUni\\Universidad.cs",
+              "RelativeToolTip": "AsistUni\\Universidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:44:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\source\\repos\\AsistUni\\AsistUni\\Program.cs",
+              "RelativeDocumentMoniker": "AsistUni\\Program.cs",
+              "ToolTip": "C:\\Users\\Bryan\\source\\repos\\AsistUni\\AsistUni\\Program.cs",
+              "RelativeToolTip": "AsistUni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:34:40.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

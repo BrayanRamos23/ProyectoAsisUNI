@@ -1,0 +1,14 @@
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\bin\Debug\net8.0\AsistUni.exe
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\bin\Debug\net8.0\AsistUni.deps.json
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\bin\Debug\net8.0\AsistUni.runtimeconfig.json
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\bin\Debug\net8.0\AsistUni.dll
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\bin\Debug\net8.0\AsistUni.pdb
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.dll
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\refint\AsistUni.dll
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.pdb
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\AsistUni.genruntimeconfig.cache
+C:\Users\Bryan\source\repos\AsistUni\AsistUni\obj\Debug\net8.0\ref\AsistUni.dll
